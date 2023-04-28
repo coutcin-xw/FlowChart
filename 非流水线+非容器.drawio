@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T04:13:04.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="wpin7ISlicO1HKIq02TM" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-28T04:13:37.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="mqMmbsw5Gmq-XWdvpzP9" version="21.2.3" type="github">
   <diagram name="第 1 页" id="UKCQZN9-5XByZ1K5dmlg">
     <mxGraphModel dx="1377" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -103,8 +103,8 @@
         <mxCell id="6uDJXE4_llDY2m2zooGq-32" value="JIRA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="700" width="915" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6uDJXE4_llDY2m2zooGq-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;修改对应的应用启动命令，插入agent及指定tag值&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#009900;glass=0;rounded=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="400" width="110" height="51" as="geometry" />
+        <mxCell id="6uDJXE4_llDY2m2zooGq-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;下载对应的agent，并修改对应的应用启动命令，插入agent及指定tag值&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#009900;glass=0;rounded=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6uDJXE4_llDY2m2zooGq-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6uDJXE4_llDY2m2zooGq-35" target="6uDJXE4_llDY2m2zooGq-20">
           <mxGeometry relative="1" as="geometry" />
