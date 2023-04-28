@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T03:25:09.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="KW4kXB76PIZfKFuAK0Mw" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-28T03:26:15.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="Iseuu28yts04-zyxrQCO" version="21.2.3" type="github">
   <diagram name="第 1 页" id="0tziWr9eTuqIwZgZHuXX">
     <mxGraphModel dx="1377" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -138,8 +138,8 @@
         <mxCell id="Z6vN_d3TJc15BrfqVS7v-42" value="自动插桩" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="530" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Z6vN_d3TJc15BrfqVS7v-46" value="同步漏&lt;br&gt;洞数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="620" y="507.5" width="60" height="40" as="geometry" />
+        <mxCell id="Z6vN_d3TJc15BrfqVS7v-46" value="同步&lt;br&gt;数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="625" y="507.5" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z6vN_d3TJc15BrfqVS7v-47" value="JIRA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="640" width="915" height="50" as="geometry" />
